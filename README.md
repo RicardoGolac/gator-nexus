@@ -13,6 +13,11 @@ This is a MERN Stack web application that gathers and displays demographic data 
 
 We used code from Reactstrap to help build the front end of our website.
 
+## Initial Setup Notes
+
+1. Make sure to install all node modules
+2. From the root folder, run 'npm run dev' to run both frontend and backend at the same time
+
 ### Clone the project on to your local machine
 
 1. Navigate to a directory on your local machine to store the project
