@@ -1,0 +1,15 @@
+{
+  "name": "gator-nexus",
+  "version": "1.0.0",
+  "description": "MERN stack web app for student demographics",
+  "main": "backend/server.js",
+  "scripts": {
+    "client-install": "npm install --prefix frontend",
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm start\""
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^6.0.0"
+  }
+}
